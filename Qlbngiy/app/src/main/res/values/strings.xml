@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">QLBNGIY App</string>
+    <string name="login">Đăng nhập</string>
+    <string name="register">Đăng ký</string>
+    <string name="forgot_password">Quên mật khẩu</string>
+    <string name="name_hint">Tên tài khoản</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Mật khẩu</string>
+    <string name="confirm_password_hint">Nhập lại mật khẩu</string>
+    <string name="phone_hint">Số điện thoại</string>
+    <string name="address_hint">Địa chỉ</string>
+    <string name="remember_me">Lưu tài khoản</string>
+    <string name="agree_terms">Tôi đồng ý với điều khoản</string>
+    <string name="title_main">Quản lý Giày Thể Thao</string>
+    <string name="menu_product">Sản phẩm</string>
+    <string name="menu_order">Đơn hàng</string>
+    <string name="menu_customer">Khách hàng</string>
+    <string name="menu_report">Báo cáo</string>
+</resources>
